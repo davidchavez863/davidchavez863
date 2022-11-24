@@ -1,5 +1,3 @@
-
-
 <h3 align="center">
   Welcome to David Chavez's profile!
 </h3>
@@ -52,6 +50,7 @@
     <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
     <img alt="PHPUnit" src="https://custom-icon-badges.herokuapp.com/badge/PHPUnit-366488.svg?logo=test-tube&logoColor=white" />
+    <img alt="Python" src="https://custom-icon-badges.herokuapp.com/badge/Python-3776AB.svg?logo=python&logoColor=white" />
 </p>
 
 ### 🗄️ Databases and cloud hosting
